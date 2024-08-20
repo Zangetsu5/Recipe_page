@@ -1,0 +1,92 @@
+body{
+    background: hsl(30, 54%, 90%);
+    justify-content:center;
+    
+}
+
+@media screen and (max-width:1440px){
+    #page-wrap {
+        display: flex;
+        flex-direction: column;
+        padding: 35px;
+        background: rgb(255, 255, 255);
+        max-width: 600px;
+        width:fit-content;
+        margin: 0 auto;
+        box-shadow: 40px;
+        border-radius: 15px;
+        
+      }
+
+#Ingredients{
+  background-color:  rgba(146, 74, 74, 0.3);
+  border-radius: 15px;
+  
+  
+  
+}        
+    
+        
+      
+    
+    img{
+        border-radius: 15px;
+    }
+    .same{
+        color:hsl(32, 69%, 42%);
+    }
+    .sAme{
+        color:hsl(332, 51%, 32%);
+        font-size: 20px;
+        font-weight: bold;
+        
+    }
+    
+    
+    
+    body {
+        
+        font-size: 16px;
+        color: #333;
+    }
+    @import url('https://fonts.google.com/specimen/Young+Serif');
+    h1, h2, h3 {
+        font-weight: bold;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        font-family:'Young Serif',sans-serif;
+       
+
+        
+        }
+  
+    ul{
+        padding:10px;
+        margin:1px 1px;
+        
+       }
+
+    
+    
+    ol{
+        padding:10px;
+    }
+        
+        
+     h1 {
+        font-size: 2.4rem;
+      }
+      
+      h2 {
+        font-size: 2rem;
+      }
+      
+      h3 {
+        font-size: 1.8rem;
+      }
+      
+      p {
+        margin-bottom: 1.5rem;
+      }
+    
+}
